@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Speak
+comment0.text=\r\n\ This\ class\ helps\ Sophie\ to\ speak\ through\ VBS\ script\r\n\r\n\ @author\ Ayush\ Tripathi\r\n\ @version\ 1.0.0\r\n
+comment1.params=sayThis
+comment1.target=boolean\ Say(java.lang.String)
+comment2.params=stringtowrite\ filename
+comment2.target=boolean\ makeNewNote(java.lang.String,\ java.lang.String)
+numComments=3

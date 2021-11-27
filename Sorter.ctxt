@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Sorter
+comment0.text=\r\n\ this\ class\ sorts\ the\ inputs\ and\ processes\ them\ hence\ this\ class\ is\ the\ main\ brain\ of\ sophie\!\r\n\r\n\ @author\ Ayush\ Tripathi\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=void\ run()
+comment2.params=strrr
+comment2.target=void\ print(java.lang.String)
+comment3.params=strrr
+comment3.target=void\ println(java.lang.String)
+comment4.params=strrr
+comment4.target=void\ plnspk(java.lang.String)
+comment5.params=srt\ org
+comment5.target=boolean\ contains(java.lang.String,\ java.lang.String)
+comment6.params=srt\ org
+comment6.target=boolean\ contains(java.lang.String,\ java.lang.String[])
+numComments=7

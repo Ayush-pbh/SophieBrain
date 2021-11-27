@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=StartUp
+comment0.text=\n\ This\ Class\ has\ a\ onStart()\ function\ which\ only\ executes\ ones\!\ when\ the\ ware\ runs\ for\ the\ first\ time\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\ \n
+comment1.params=
+comment1.target=void\ onStart()
+comment2.params=
+comment2.target=boolean\ resetSystem()
+numComments=3

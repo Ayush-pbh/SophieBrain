@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ResourceProvider
+comment0.text=\r\n\ \r\n\ This\ class\ does\ nothing\ much\ but\ just\ has\ functions\ to\ make\ sure\ that\ things\ are\ in\ right\ place.\ and\ provide\ resources\ like\ name,\ etc.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getAdminName()
+comment2.params=
+comment2.target=java.lang.String\ getRepository()
+numComments=3
